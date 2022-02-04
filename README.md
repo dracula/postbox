@@ -14,7 +14,7 @@ They can be found in [INSTALL.md](./INSTALL.md)
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/arukshpatel/Dracula_Postbox/graphs/contributors).
 
 | [![Aruksh Patel](https://github.com/arukshpatel.png?size=100)](https://github.com/arukshpatel) |
 | ---------------------------------------------------------------------------------------------- |
