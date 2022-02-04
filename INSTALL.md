@@ -15,4 +15,4 @@
 3. Select "Dracula" theme and press edit
 4. Adjust the colors to your liking
 
-![Dialog](https://raw.githubusercontent.com/arukshpatel/Dracula_Postbox/master/screenshot.png)
+![Dialog](https://raw.githubusercontent.com/arukshpatel/Dracula_Postbox/master/screenshot_1.png)

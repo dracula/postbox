@@ -2,7 +2,7 @@
 
 > A dark theme for [Postbox](https://www.postbox-inc.com).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot_1.png)
 
 ## Install
 
