@@ -1,17 +1,18 @@
-### [Foobar](https://foobar.com)
+### [Postbox](https://www.postbox-inc.com)
 
-#### Install using Git
+#### Install Manually
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+1. Download using the [Github .zip download](https://github.com/arukshpatel/Dracula_Postbox/archive/refs/heads/master.zip)
+2. Unarchive the zip folder you downloaded.
+3. Open Postbox and go to Settings/Prefernces > Display > Themes > Import
+4. Select the "Dracula.json" file from the folder
+5. Select "Dracula" as the theme
 
-    git clone https://github.com/dracula/foobar.git
+#### Optional: Customize the theme
 
-#### Install manually
+1. Open Postbox
+2. Go to Settings/Preferences > Display > Themes
+3. Select "Dracula" theme and press edit
+4. Adjust the colors to your liking
 
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this
-2. Then that
-3. Boom! It's working
+![Dialog](https://raw.githubusercontent.com/arukshpatel/Dracula_Postbox/master/screenshot.png)
