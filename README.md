@@ -2,19 +2,15 @@
 
 > A dark theme for [Postbox](https://www.postbox-inc.com).
 
-![Screenshot](./screenshot_1.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
 All instructions can be found at [draculatheme.com/postbox](https://draculatheme.com/postbox)
 
-**OR**
-
-They can be found in [INSTALL.md](./INSTALL.md)
-
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/arukshpatel/Dracula_Postbox/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/postbox/graphs/contributors).
 
 | [![Aruksh Patel](https://github.com/arukshpatel.png?size=100)](https://github.com/arukshpatel) |
 | ---------------------------------------------------------------------------------------------- |

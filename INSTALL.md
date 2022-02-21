@@ -2,7 +2,7 @@
 
 #### Install Manually
 
-1. Download using the [Github .zip download](https://github.com/arukshpatel/Dracula_Postbox/archive/refs/heads/master.zip)
+1. Download using the [Github .zip download](https://github.com/dracula/postbox/archive/refs/heads/master.zip)
 2. Unarchive the zip folder you downloaded.
 3. Open Postbox and go to Settings/Prefernces > Display > Themes > Import
 4. Select the "Dracula.json" file from the folder
@@ -15,4 +15,4 @@
 3. Select "Dracula" theme and press edit
 4. Adjust the colors to your liking
 
-![Dialog](https://raw.githubusercontent.com/arukshpatel/Dracula_Postbox/master/screenshot_1.png)
+![Dialog](https://raw.githubusercontent.com/dracula/postbox/master/screenshot.png)
